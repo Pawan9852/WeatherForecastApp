@@ -95,3 +95,4 @@
 /Users/sky/Desktop/MVC/WeatherForecast/obj/Debug/net9.0/WeatherForecast.pdb
 /Users/sky/Desktop/MVC/WeatherForecast/obj/Debug/net9.0/WeatherForecast.genruntimeconfig.cache
 /Users/sky/Desktop/MVC/WeatherForecast/obj/Debug/net9.0/ref/WeatherForecast.dll
+/Users/sky/Desktop/MVC/WeatherForecast/obj/Debug/net9.0/WeatherForecast.sourcelink.json
